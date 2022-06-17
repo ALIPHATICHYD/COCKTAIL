@@ -1,4 +1,4 @@
-Program for cocktails
+//Program for cocktails
 
 const cocktail = prompt('What is your favourite cocktail')
 
